@@ -11,7 +11,7 @@ public class GameOfLife extends JFrame {
 
         GridPanel gridPanel = new GridPanel(80, 60, 10); // 80x60 grid, 10px per cell
         add(gridPanel);
-        pack();
+        //pack();
         setLocationRelativeTo(null);
     }
 
