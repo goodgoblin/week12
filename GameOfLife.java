@@ -1,7 +1,7 @@
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
-
+//hi mom
 public class GameOfLife extends JFrame {
 
     public GameOfLife() {
